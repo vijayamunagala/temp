@@ -15,13 +15,5 @@ generate physical data models when changes are require
 
 Hi 
 
-in a simple way i will tell you .We have a big US client i.e Idera.that is a major project in my commpany.Again Idera is having 20+ Products.
-most of the fortune 500 comanies are using these tools.all these tools were developed to monitor SQL servers.those are
-SQL Diagnostic Manager, SQL Inventory Manager, SQL Doctor,SQL Defrag Manager, SQL BI Manager SQL Workload Analysis, SQL Safe SQL Safe, SQL Admin Toolset, 
-SQL Enterprise Job Manager ,  SQL Virtual Database, SQL Compliance Manager, SQL Secure,SQL Precise 
-all these are monitoring tools ..we have almost 1000 virtual machines,all are different Windows versions from Windows server 2008 to windows 10.and different 
-sql server versions ( from 2008 to 2019) were installed in those virtual machines.now we will monitor different sql server instances into idera tools.
-and also these tools will support azure databases and Amazon servers
-
 
 
