@@ -8,12 +8,7 @@ Install, configure, and maintain Microsoft and Linux virtual machine templates
 Active Directory (AD)
 Domain Name Server (DNS)
 
-
-ER/Studio provides us with a robust methodology for creating data models 
-and the ability to quickly 
-generate physical data models when changes are require
-
-Hi 
+changes in github
 
 
 
